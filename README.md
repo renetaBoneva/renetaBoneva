@@ -1,5 +1,5 @@
 <h2 align="left">Reneta Boneva</h2>
-<h3 align="left">Hi there 👋 I'm Reneta and I live in Bulgaria. Currently, I am studying at the University of Plovdiv, pursuing Mathematics, Computer Science, and Information Technology and Software Engineering with JavaScript at SoftUni. </h3>
+<h3 align="left">Hi there 👋 I'm Reneta and I live in Bulgaria. Currently, I am studying at the University of Plovdiv, pursuing Mathematics, Computer Science, and Information Technology and Full Stack Development with JavaScript at SoftUni. </h3>
 
 - 🔭 I’m currently working on my education. 
 - ⚡ Fun fact: I love dancing and long walks. 
