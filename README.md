@@ -1,8 +1,9 @@
 <h2 align="left">Reneta Boneva</h2>
 <h3 align="left">Hi there 👋 I'm Reneta from Bulgaria. Currently, I am studying at the University of Plovdiv, pursuing Mathematics, Computer Science, and Information Technology. I just got my diploma as Full Stack Development with JavaScript from SoftUni. </h3>
 
-- 🔭 I’m currently working on my education. 
+- 🔭 I’m currently working on my education.
 - ⚡ Fun fact: I love dancing and long walks. 
+- I'm on Internship at UNIQA Software Services working as a PEGA Developer.
 
 <h2 align="left">Languages and Tools</h2>
 <p align="left"> 
